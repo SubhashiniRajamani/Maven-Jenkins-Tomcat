@@ -5,7 +5,7 @@
 
 <body>
 
-<h1> DevOps Demo - Jenkins</h1>
+<h1> DevOps Demo - Maven Build </h1>
 
 <h2>Deployment Successful!</h2>
 
